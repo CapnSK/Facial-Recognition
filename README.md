@@ -24,4 +24,4 @@ The system would either classify you as one of the people in the database or it 
 Screenshots
 -----------
 
-<img src = "Screenshots/Screenshot_1.png" height = "800"/>
+<img src = "Screenshots/Screenshot_1.png" height = "400"/>
