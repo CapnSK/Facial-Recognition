@@ -10,8 +10,8 @@ Pre-requisites
 Getting Started
 ---------------
 
-- Firstly put images of the people you want the system to recognize in .\Data\ Folder.
-- Then change the boolean value of addFaceData variable in index.py file, set it to True.
+- Firstly create a Data folder and put images of the people you want the system to recognize in .\Data\ Folder.
+- Then change the boolean value of addFaceData variable in index.py file, set it to True and create an empty folder by name "FaceData".
 - Then run the index.py file.
 Note: If you are running the code for first time, it may take a while to download VGG16 architecture and also the required weights, depending on the model you have selected. (resnet, senet, vgg).
 
